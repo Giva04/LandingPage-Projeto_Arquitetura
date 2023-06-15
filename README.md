@@ -1,7 +1,7 @@
 # LandingPage-Projeto_Arquitetura
 
-## Landing Page desenvolvida para representar uma site de arquiterura, onde os interessados<br>
-realizam um pré-cadastro no pagina.<br>
+Landing Page desenvolvida para representar uma site de arquiterura,<br>
+onde os interessados realizam um pré-cadastro no pagina.<br>
 Projeto desenvolvido em Html e Css, com formulario que salva o cadastro de visitante, <br>
 Podemos acessar ou baixa via execel todos os nomes e email das pessoas que visitaram a Pagina.
 
