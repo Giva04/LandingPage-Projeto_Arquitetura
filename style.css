@@ -1,13 +1,14 @@
 *{
     border:none;
     font-family:Inter;
+    
 }
 header{
-    width:1347px;
+    max-width:100%;
     height: 400px;
     background-color: rgba(48, 48, 48, 1);
     margin-top:-21px;
-    margin-left:-6px;
+    margin-left:-06px;
 }
 #titulo-header{
     display:flex;
@@ -31,7 +32,7 @@ h1{
 }
 #menu{
     
-    width:1344px;
+    max-width:1344px;
     height:200px;
     background-color: rgba(249, 249, 249, 1 );
     margin-left: -5px;
@@ -52,7 +53,7 @@ h1{
 }
 #menu-central{
     
-    width:1344px;
+    max-width:1344px;
     margin-left:-5px;
     margin-top:95px;
     display:grid;
