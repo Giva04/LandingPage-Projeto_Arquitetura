@@ -3,12 +3,16 @@
     font-family:Inter;
     
 }
-header{
-    max-width:100%;
-    height: 400px;
+
+#menu-superior{
+    max-width:1341px;
+    min-width:320px;
+    height: 430px;
     background-color: rgba(48, 48, 48, 1);
-    margin-top:-21px;
+    margin-top:-8px;
     margin-left:-06px;
+    
+    
 }
 #titulo-header{
     display:flex;
@@ -52,13 +56,24 @@ h1{
     padding: 70px;
 }
 #menu-central{
-    
-    max-width:1344px;
+    max-width:1341px;
+    min-width:320px;
     margin-left:-5px;
-    margin-top:95px;
+    margin-top:150px;
     display:grid;
     grid-auto-flow:column;
+    align-items:center;
     
+}
+#texto{
+    margin-top: -300px;
+
+}
+
+#projeto{
+    width:100%;
+    height:auto !important;
+
 }
 #central{
     display:flex;
@@ -76,14 +91,15 @@ h1{
     display:grid;
     grid-auto-flow:column;
     column:auto;
-    height:600px;
+    height:650px;
     margin-top:90px;
+    
 }
 #title-formulario{
     display:flex;
     flex-direction:column;
     align-items:center;
-
+    
 }
 #title{
     color: rgba(255,255,255, 1);
@@ -91,7 +107,8 @@ h1{
     line-height:48px;
 }
 input{
-    width:450px;
+    max-width:450px;
+    min-width:320px;
     height:20px;
     margin-top:70px;
     border-radius:10px;
@@ -99,10 +116,12 @@ input{
     
 }
 button{
-    width: 250px;
+    max-width: 250px;
+    min-width: 100px;
     height:60px;
-    margin-left: 125px;
+    margin-left: 100px;
     margin-top: 50px;
+    margin-bottom: 20px;
     background-color: rgba(192, 114, 18, 1);
     color: rgba(255, 255, 255, 1);
     border-radius:10px;
@@ -110,6 +129,7 @@ button{
     line-height:30px;
     font-weight:bold;
     cursor:pointer;
+    m
 }
 button:hover{
     transform:translateY(-5px);
