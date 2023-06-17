@@ -10,5 +10,5 @@ Podemos acessar ou baixa via execel todos os nomes e email das pessoas que visit
 
 
 ##### Link GitHub:https://github.com/Giva04/LandingPage-Projeto_Arquitetura
-##### Link Planinha SheetMonkey: https://docs.google.com/spreadsheets/d/1Az07iB0zyHUWe1Up5M8hc42LT6_ksdYO2YiIHXZRZPw/edit#gid=0<br>
+##### Link Planinha SheetMonkey: https://docs.google.com/spreadsheets/d/1Az07iB0zyHUWe1Up5M8hc42LT6_ksdYO2YiIHXZRZPw/edit?usp=sharing<br>
 ##### Link Netlify : https://sweet-sawine-f1e59b.netlify.app/ 
